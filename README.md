@@ -7,7 +7,7 @@
 🚀 Currently learning the Fiber framework in Go and exploring agentic workflows and GenAI with Python  
 💡 Just a guy who codes what he wants, when he wants  
 
-- Portfolio Site: https://aliarifdev.online
+- Portfolio Site: https://aliarif.online
 
 
 ## 🌐 Socials:
